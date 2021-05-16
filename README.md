@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ayush Parikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">A passionate Developer ,Programmer,Content Writer & Tech-savvy person from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zugzwang.in%2Fcoding-classes&psig=AOvVaw1J1BzvQgRUQa_-jMRJ6KdP&ust=1621260267667000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjYw_OvzvACFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 
 - 💻 I’m currently working on something cool :wink: ;
