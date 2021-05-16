@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushparikh-code&label=Profile%20views&color=0e75b6&style=flat" alt="ayushparikh-code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushparikh-code" alt="ayushparikh-code" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
 - 💬 Ask me about **Anything(would definitely try helping you out)**
