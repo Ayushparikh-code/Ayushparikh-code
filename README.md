@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Ayush Parikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">A passionate Developer ,Programmer,Content Writer & Tech-savvy person from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushparikh-code&label=Profile%20views&color=0e75b6&style=flat" alt="ayushparikh-code" /> </p>
-
 - 💻 I’m currently working on something cool :wink: ;
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
@@ -20,3 +18,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushparikh-code&" alt="ayushparikh-code" /></p>
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
