@@ -22,5 +22,8 @@
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushparikh-code&" alt="ayushparikh-code" /></p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p><br><br>
+
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
