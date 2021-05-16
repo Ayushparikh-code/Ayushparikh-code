@@ -17,6 +17,7 @@
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></p>
 <p align="left"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushparikh-code&layout=compact&langs_count=8&theme=algolia" /></p>  
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushparikh-code&" alt="ayushparikh-code" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushparikh-code&" alt="ayushparikh-code" /></p>
+
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
