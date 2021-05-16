@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on something cool :wink: ;
 
-- <img src="https://komarev.com/ghpvc/?username=ayushparikh-code&label=Profile%20views&color=0e75b6&style=flat" alt="ayushparikh-code" /> I’m looking to collaborate on **Open-Source Projects**
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="15px">I’m looking to collaborate on **Open-Source Projects**
 
 - 💬 Ask me about anything, I am happy to help ;
 
