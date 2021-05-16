@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Parikh</h1>
+<h1 align="center">Hey there, I'm Ayush Parikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">A passionate Developer ,Programmer,Content Writer & Tech-savvy person from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushparikh-code&label=Profile%20views&color=0e75b6&style=flat" alt="ayushparikh-code" /> </p>
