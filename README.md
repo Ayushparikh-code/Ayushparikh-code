@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushparikh-code&label=Profile%20views&color=0e75b6&style=flat" alt="ayushparikh-code" /> </p>
 
+- 💻 I’m currently working on something cool :wink: ;
+
 - 🤝 I’m looking to collaborate on **Open-Source Projects**
 
 - 💬 Ask me about anything, I am happy to help ;
