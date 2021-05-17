@@ -19,11 +19,18 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></p>
 <p align="left"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushparikh-code&layout=compact&langs_count=8&theme=algolia" /></p>  
+
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushparikh-code&" alt="ayushparikh-code" /></p>
 
+[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=react-dark)](https://github.com/Ayushparikh-code/github-readme-activity-graph)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p><br><br>
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Parikh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)
 
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
