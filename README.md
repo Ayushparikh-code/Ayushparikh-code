@@ -22,7 +22,7 @@
 <p align="left"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushparikh-code&layout=compact&langs_count=8&theme=algolia" /></p>  
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushparikh-code&" alt="ayushparikh-code" /></p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
