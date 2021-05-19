@@ -30,11 +30,11 @@
 
 
 
-<br>
+<br><details> <summary align="center">Wanna see How I Code ? 😅</samp></summary>
 <p align="left">
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
-</p>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p></details>
 
 ### Spotify Playing 🎧
 
@@ -42,6 +42,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p><br><br>
 
-<br><p align="center"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
 <br>👋 Have the Best Day you can 🌈<br>
