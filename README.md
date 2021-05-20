@@ -39,6 +39,11 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Parikh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p><br><br>
 
