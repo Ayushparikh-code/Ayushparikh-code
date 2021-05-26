@@ -29,7 +29,7 @@
 
 
 
-[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code/github-readme-activity-graph)
+[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
 
 
 
