@@ -27,33 +27,57 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushparikh-code&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="ayushparikh-code" /></p>
 <details> <summary align="center"> </samp></summary><b>Note:</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
+---
 
+<div align="center">
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
+  </a>
+</div>
 
+---
+<!---
 [![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
 <br>
 
 
 
-<br><details> <summary align="center">😅</samp></summary>
+
+
+<br><details> <summary align="center"> </samp></summary>
 <p align="left">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p></details>
+-->
 
+<div align="center">
+ 
 ### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Parikh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)</div><br>
+<div align="center">
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Parikh Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)
-
-## 😂 Here is a random joke that'll make you laugh!
+## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p>
 
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
-<br><p align="center">
+<br></div>
+
+
+<p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
+<br>
+
+
+<div align="center">
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p>
+</div>
 <br>👋 Have the Best Day you can 🌈<br>
