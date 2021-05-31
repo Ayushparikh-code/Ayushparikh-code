@@ -24,13 +24,12 @@
 <br>
 
 ## 📊 My Github Stats
-<div align="center">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
-<p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushparikh-code&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>  </div>
- 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushparikh-code&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=tokyonight" align="center" />
+</p>
 
- 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushparikh-code&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="ayushparikh-code" /></p>
 <details> <summary align="center"> </samp></summary><b>Note:</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
