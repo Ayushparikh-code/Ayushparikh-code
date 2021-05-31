@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=tokyonight" align="center" />
 </p>
 
-<details> <summary align="center"> </samp></summary><b>Note:</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
 
