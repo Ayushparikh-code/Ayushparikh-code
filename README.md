@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
